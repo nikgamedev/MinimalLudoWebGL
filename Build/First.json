@@ -1,0 +1,12 @@
+{
+"companyName": "SuperKing",
+"productName": "LUDO Super King",
+"dataUrl": "First.data.unityweb",
+"wasmCodeUrl": "First.wasm.code.unityweb",
+"wasmFrameworkUrl": "First.wasm.framework.unityweb",
+"TOTAL_MEMORY": 134217728,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
