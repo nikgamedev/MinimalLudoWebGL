@@ -1,3 +1,3 @@
 # Minimal Ludo
 
-Play on web from here https://nikgamedev.github.io/till10/
+Play on web from here https://nikgamedev.github.io/minimalludo/
